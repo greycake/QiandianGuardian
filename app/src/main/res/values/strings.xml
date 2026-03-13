@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">黔电卫士</string>
+    <string name="title_main">黔电卫士</string>
+    <string name="title_blocked_calls">拦截记录</string>
+    <string name="title_settings">设置</string>
+    <string name="enable_block">开启拦截</string>
+    <string name="disable_block">关闭拦截</string>
+    <string name="block_enabled">拦截已开启</string>
+    <string name="block_disabled">拦截已关闭</string>
+    <string name="permission_required">需要权限</string>
+    <string name="grant_permissions">请授予必要权限</string>
+    <string name="set_default_call_app">设置为默认通话应用</string>
+    <string name="blocked_call">拦截的来电</string>
+    <string name="blocked_sms">拦截的短信</string>
+    <string name="guizhou_number">贵州号码</string>
+    <string name="time">时间</string>
+    <string name="empty_records">暂无拦截记录</string>
+    <string name="clear_records">清空记录</string>
+    <string name="confirm_clear">确认清空所有拦截记录？</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="phone_number">电话号码</string>
+    <string name="sms_content">短信内容</string>
+    <string name="block_call_enabled">电话拦截已开启</string>
+    <string name="block_call_disabled">电话拦截已关闭</string>
+    <string name="block_sms_enabled">短信拦截已开启</string>
+    <string name="block_sms_disabled">短信拦截已关闭</string>
+    <string name="guizhou_area_code">贵州区号</string>
+    <string name="guizhou_mobile_prefix">贵州手机号段</string>
+    <string name="about">关于</string>
+    <string name="about_content">黔电卫士 v1.0\n拦截贵州地区电话和短信\n适配鸿蒙4.3系统</string>
+</resources>
